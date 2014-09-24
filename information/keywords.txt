@@ -1,0 +1,1 @@
+One or more keywords that describe your app. Keywords make App Store search results more accurate. Separate keywords with a comma.

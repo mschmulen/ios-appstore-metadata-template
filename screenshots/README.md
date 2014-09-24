@@ -1,0 +1,1 @@
+Screenshots must be in the JPG or PNG format, and in the RGB color space. App video previews must be in the M4V, MP4, or MOV format and can’t exceed 500 MB. (Learn More)[https://developer.apple.com/library/ios/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/Appendices/Properties.html] .
